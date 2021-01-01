@@ -1,0 +1,6 @@
+boto3
+shapely
+pyclustering
+numpy
+pandas
+scikit-learn-extra
